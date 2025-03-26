@@ -76,8 +76,8 @@ If you are interested in collaborating or have any questions, feel free to reach
 
 ## Contact
 
-- **Email** : [ton.email@exemple.com](mailto:ton.email@exemple.com)
-- **LinkedIn** : [Votre profil LinkedIn](https://www.linkedin.com/in/tonprofil)
+- **Email** : [ton.email@exemple.com](mailto:cedrickmidianga@gmail.com)
+- **LinkedIn** : [Votre profil LinkedIn](https://www.linkedin.com/in/cedric-midianga-1738772b2/)
 
 Merci d'avoir visité mon portfolio et j'espère avoir l'opportunité de collaborer avec vous ! 🚀  
 Thank you for visiting my portfolio and I hope to have the opportunity to collaborate with you! 🚀
