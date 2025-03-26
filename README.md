@@ -64,6 +64,17 @@ Si vous êtes intéressé par une collaboration ou si vous avez des questions, n
 **[EN]** I am **highly motivated** and **open to opportunities**. I am looking for collaborations, exchanges, and interesting projects where I can contribute my skills. I’m also always up for discussions and helping other developers.
 If you are interested in collaborating or have any questions, feel free to reach out! I’m available for all kinds of discussions, whether it's to exchange ideas, advice, or even to learn together!
 
+
+## 🚀 Déploiement / Deployment  
+
+**[FR]** Ce portfolio est déployé avec **Vercel** et non avec **GitHub Pages**, car GitHub Pages ne charge pas correctement les styles CSS lorsque j'utilise Tailwind CSS et certaines configurations spécifiques de React. Vercel offre une intégration plus fluide avec mon stack technologique et garantit un rendu optimal.  
+
+**[EN]** This portfolio is deployed using **Vercel** instead of **GitHub Pages**, because GitHub Pages does not properly load CSS styles when using Tailwind CSS and some specific React configurations. Vercel provides a smoother integration with my tech stack and ensures optimal rendering.  
+
+🔗 **Lien du portfolio / Portfolio link** : [portfolio-midiangacedric](https://portfolio-midiangacedric-i05j6kua3-cedrics-projects-a7d9fcfb.vercel.app/)  
+
+
+
 ## Contact
 
 - **Email** : [cedrickmidianga@gmail.com](mailto:cedrickmidianga@gmail.com)
